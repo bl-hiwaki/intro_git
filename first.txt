@@ -1,2 +1,4 @@
 Gitの練習をします。
 Gitの基本
+・git add
+・git commit
